@@ -308,10 +308,3 @@ SET `Code_Year` = CONCAT(Code, '_', Year);
 
 SELECT * FROM population_by_age_group_bewerkt;
 
-#controleren of er duplicaten zijn en die zijn er niet
-SELECT *, row_number() OVER(partition by Country, Code, Year) as Row_Num FROM population_by_age_group_bewerkt;
-
-WITH Duplicate_cte as
-(SELECT *, row_number() OVER(partition by Country, Code, Year) as Row_Num FROM population_by_age_group_bewerkt)
-SELECT * FROM Duplicate_cte
-WHERE Row_Num >1;
