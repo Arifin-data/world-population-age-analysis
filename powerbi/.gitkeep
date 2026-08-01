@@ -1,0 +1,37 @@
+# Power BI Report
+
+This folder contains the Power BI report developed for the **World Population Age Analysis** project.
+
+## Contents
+
+- `World Population Age Analysis.pbix` – Power BI report file
+
+## Dashboard Features
+
+- Population by age group
+- Population trends over time
+- Country comparison
+- Continent comparison
+- Income group comparison
+- Interactive slicers and filters
+
+## Visualizations
+
+The dashboard includes:
+
+- Cards
+- Bar charts
+- Treemap
+- Matrix
+- Slicers
+- Interactive cross-filtering
+  
+## Data Model
+
+The report is based on a relational data model created from cleaned and transformed SQL data.
+
+## Measures
+
+The report includes DAX measures for:
+- Average population by age group
+- Countrows population by age group
