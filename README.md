@@ -71,6 +71,9 @@ README.md
 ## 📷 Dashboard Preview
 <img width="1203" height="699" alt="afbeelding" src="https://github.com/user-attachments/assets/d9ac387e-9b25-4651-bd1b-428d89d8399d" />
 
+<img width="1189" height="672" alt="afbeelding" src="https://github.com/user-attachments/assets/e4f706ba-8a2e-49a1-9d10-a5dbf38952fa" />
+
+<img width="1218" height="679" alt="afbeelding" src="https://github.com/user-attachments/assets/e71b677f-ff41-4185-9d14-be6360a6128c" />
 
 
 ---
